@@ -75,3 +75,9 @@ Pour un usage plus avancé cas, vous pourriez être en mesure de prendre avantag
 Il existe un package tiers [`material-ui-popup-state`](https://github.com/jcoreio/material-ui-popup-state) qui gère l’état du menu pour vous dans la plupart des cas.
 
 {{"demo": "pages/demos/menus/MenuPopupState.js"}}
+
+## Cascading menu
+
+Open submenus
+
+{{"demo": "pages/demos/menus/CascadingMenu.js"}}
